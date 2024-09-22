@@ -211,5 +211,18 @@ The employee's regular salary is **$3,000**, and **6%** of the loan **($120)** i
 -   **Asset (Employee Loan)**: Credited by $120 to reflect the reduction in the employee's loan balance (6% of $2,000).
 
 
+### **Scenario 10: Refund After Sales Invoice Creation and Payment Entry:**
+
+| Root Category |  Sub-Category  | Debit | Credit |
+|:-------------:|:--------------:|:-----:|:------:|
+| Liability     | Refund Payable | $1000 |        |
+| Asset         | Cash/Bank      |       | $1000  |
+
+### Explanation:
+
+-   **Liability (Refund Payable)**: Debited by $1,000, as the company now owes this amount to the customer.
+-   **Asset (Cash/Bank)**: Credited by $1,000, indicating the payment of the refund from the company's bank account to the customer.
+
+
 ### License:
 MIT
