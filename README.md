@@ -1,6 +1,6 @@
 # Accounting Overview
 
-The following nemonic can help us to understand what Debit and Credit represents in any Accounting software.
+The following documentation presents some general concepts used in accounting.
 
 **Fundamentals:**
 
