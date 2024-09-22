@@ -1,4 +1,4 @@
-# Accounting Overview!
+# Accounting Overview
 
 The following nemonic can help us to understand what Debit and Credit represents in any Accounting software.
 
